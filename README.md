@@ -1,6 +1,4 @@
-# [Your Movie Hall Name] Website - Front-End
-
-This repository contains the front-end code for [Your Movie Hall Name]'s website.
+This repository contains the front-end code for the ##MovieHall website.
 
 ## Features
 
