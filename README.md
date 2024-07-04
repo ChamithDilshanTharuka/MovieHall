@@ -1,4 +1,4 @@
-This repository contains the front-end code for the ## MovieHall website.
+This repository contains the front-end code for the MovieHall website.
 
 ## Features
 
